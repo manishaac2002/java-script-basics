@@ -32,7 +32,7 @@ console.log(welcome.toString());
 
 */
 
-
+/*
 // ---------------nullish coalescing operator----------------//
 const a=null??"No value"
 console.log(a);
@@ -51,3 +51,5 @@ console.log(users.name);
 // nullish coalescing assignment operator
 users.city??="chennai"
 console.log(users.city);
+*/
+

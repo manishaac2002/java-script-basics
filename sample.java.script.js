@@ -27,3 +27,12 @@
 
 //  console.log(res);
  
+// -------------------------------Bitwise operator----------------------------
+
+// -> &&, |, <<,>> ^
+
+// --------------------------Increment & Decrement------------------------------
+// -> ++ &--
+
+// postfix increment a++
+// prefix increment ++a
