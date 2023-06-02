@@ -9,23 +9,23 @@ if (ans) {
     console.log("No number");
 }
 // ----------------------------Java script--------------------------------------
-// if(true){
-//     let msg ='hi'
-// }
-// console.log(msg);
+if(true){
+    var msg ='hi'
+}
+console.log(msg);
 
 // -------------------------------------------------------------------------------
-// var a =23
-// console.log(a);
-// var a= 24
-// console.log(a);
+var js =23
+console.log(js);
+var js= 24
+console.log(js);
 // ---------------------------------------------------------------------------------
 
-//  var array=["a","b","c","d"]
+ var array=["a","b","c","d"]
 
-//  var res =array.indexOf("d")
+ var res =array.indexOf("d")
 
-//  console.log(res);
+ console.log(res);
  
 // -------------------------------Bitwise operator----------------------------
 
@@ -36,3 +36,13 @@ if (ans) {
 
 // postfix increment a++
 // prefix increment ++a
+
+// ---------------Type Coercion-------------------
+
+
+let a1="24"//it consider as string
+let b1= 12
+console.log(a1+b1);
+
+a1=Number(a1)//if need addition result..convert into number and then add 
+console.log(a1+b1);
