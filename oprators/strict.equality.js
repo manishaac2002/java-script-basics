@@ -1,11 +1,12 @@
 // ----------------strict equality---------------//
 
-let a=11;
-console.log(typeof(b));
-console.log(a=b);
-console.log(a==b);
+let num1=11;
+let num2=12
+console.log(typeof(num2));
+console.log(num1=num2);
+console.log(num1==num2);
 // double equal to(==) returns the boolean type//
-console.log (a==b);
-console.log (typeof(a==b));//boolean 
+console.log (num1==num2);
+console.log (typeof(num1==num2));//boolean 
 
-console.log (a===b);
+console.log (num1===num2);

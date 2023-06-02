@@ -1,37 +1,37 @@
 // -------------------------typeof()--------------------------------
 
 // testing with all datatype.. to find the type
-// var a =23
-//  console.log(typeof a)
+var z =23
+ console.log(typeof z)
 
-// var a ='hey'
-//  console.log(typeof a);
+var q ='hey'
+ console.log(typeof q);
 
-// var a =null
-//  console.log(typeof a);
+var w =null
+ console.log(typeof w);
 
-// var a =1.23
-//  console.log(typeof a);
+var r =1.23
+ console.log(typeof r);
 
-// var a =true
-//  console.log(typeof a);
+var t =true
+ console.log(typeof t);
 
-// let a;
-// console.log(typeof a)
+let u;
+console.log(typeof u)
 
-// var s =Symbol()
-// console.log(s);
+var s =Symbol()
+console.log(s);
 
-// var s1 =Symbol()
-// console.log(s1);
+var s1 =Symbol()
+console.log(s1);
 
-// console.log(s==s1);
+console.log(s==s1);
 
-// var courses =['c','c++','java']
-// console.log(courses);
+var courses =['c','c++','java']
+console.log(courses);
 
-// var object ={
-//     "name":"man",
-//    " roll.no":"3"
-// }
-// console.log(typeof object);
+var object ={
+    "name":"man",
+   " roll.no":"3"
+}
+console.log(typeof object);

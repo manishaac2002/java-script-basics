@@ -1,13 +1,13 @@
 
 //------------number conversion------------------//
 
-let a=[1,2,3,4];
-console.log(a,typeof a);
-a=Number(a)
-console.log(a,typeof a)
+let numberConversion=[1,2,3,4];
+console.log(numberConversion,typeof numberConversion);
+numberConversion=Number(numberConversion)
+console.log(numberConversion,typeof numberConversion)
 
-let b="test";
-console.log(b,typeof b);
-b=Number(b)
-console.log(b,typeof b)
+let numberConversion1="test";
+console.log(numberConversion1,typeof numberConversion1);
+numberConversion1=Number(numberConversion1)
+console.log(numberConversion1,typeof numberConversion1)
 
