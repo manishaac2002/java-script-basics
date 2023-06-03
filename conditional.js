@@ -10,4 +10,4 @@ other than c grade
 const  avg=44;
 // ternary operator
 const grade = avg>= 90?"A Grade" :avg>= 80?"A Grade" :"C Grade"
-console.log(grade);
+console.log(Grade);
