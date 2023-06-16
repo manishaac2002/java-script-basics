@@ -1,4 +1,4 @@
-# java-script-bascis
+# java-script-basics
 // <<<<<<<<<<<Reference videos>>>>>>>>>>>>>>>>>>>>>>>>>
 //  js for junior 
 // https://www.youtube.com/watch?v=dBUBYz75gdk

@@ -20,7 +20,7 @@ let user={
 
 for(let prop in user){
     console.log(prop+":"+user[prop]);
-}
+}         
 
 //----------Looping over objects converting to an arrays---------//
 let users1={
@@ -33,4 +33,4 @@ let arrayKeys =Object.values(users1)
 // table format
 console.table(arrayKeys1);
 console.log(arrayKeys1);
-console.log(arrayKeys);
+console.log(arrayKeys);       
