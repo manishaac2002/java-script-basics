@@ -57,4 +57,9 @@ console.log("CharCodeAt : "+c);//returns a ascii values of a character
 
 // substr 
 c=firstName.substr(0,4) 
-console.log(" substr: "+c);
+console.log("substr :"+c);
+
+// SubString
+let number = "01123123"
+a=number.substring(0,4)
+console.log("Substring: "+a);
