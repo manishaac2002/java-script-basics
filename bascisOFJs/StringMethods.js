@@ -1,4 +1,4 @@
-let firstName = "I'm  Manisha"
+let firstName = "I'm Manisha"
 let lastName = "A C"
 
 // Concatenation
@@ -46,3 +46,15 @@ console.log("Index of: "+ c );
 // String lastIndexOf
 c=firstName.lastIndexOf('a')
 console.log("Lastindexof a: "+ c);
+
+//charAt ..which finds the character in string according to the index value
+c=firstName.charAt(6)//does't consider spaces in string     
+console.log("CharAt : "+c);
+
+// charCodeAt
+c=firstName.charCodeAt(6)    
+console.log("CharCodeAt : "+c);//returns a ascii values of a character 
+
+// substr 
+c=firstName.substr(0,4) 
+console.log(" substr: "+c);

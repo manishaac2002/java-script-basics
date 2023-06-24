@@ -12,6 +12,7 @@ console.log(c);
 // using object
 const users = {"name":"manisha"}
 console.log(users);
+
 console.log(users.name);
 // nullish coalescing assignment operator
 users.city??="chennai"
