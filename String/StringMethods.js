@@ -102,3 +102,13 @@ name1=name1.trim()
 console.log("After trim "+name1.length);
 name2=name1.trim()
 console.log("After trim :"+name2);
+
+// padStart & padEnd
+// which add zero(0) to front and back of the string 
+
+// Long string literal
+//--> method1 using concatenating
+// --> method2 using slash
+
+// String.fromCharCode()
+// returns ascii values     
