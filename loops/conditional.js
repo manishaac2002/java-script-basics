@@ -7,7 +7,7 @@ other than c grade
 
 */
 
-const  avg=44;
+const avg = 44;
 // ternary operator
-const Grade = avg>= 90?"A Grade" :avg>= 80?"A Grade" :"C Grade"
+const Grade = avg >= 90 ? "A Grade" : avg >= 80 ? "A Grade" : "C Grade"
 console.log(Grade);
