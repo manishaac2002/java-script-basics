@@ -29,9 +29,12 @@ console.log(returnValue);
 
 // ----------------slice method---------------------
 let myArray1 = [1, 2, 3, 4, 5, 6, 7];
-console.log(myArray1.splice(2));//(start,end)
-console.log(myArray1.splice(2, 5));
+console.log("Slice : "+myArray1.slice(2));//(start,end)
+console.log("Slice : "+myArray1.slice(2, 5));
 
 //----------------splice method-----------------
 
+let a1 = [1, 2, 3, 4, 5, 6, 7,8,9,10];
+console.log("Splice : "+a1.splice(2));//(start,length,new element)
+console.log("Splice : "+a1.splice(2,2));
 
