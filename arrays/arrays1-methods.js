@@ -56,3 +56,5 @@ console.log(result1);
 
 //after passing index value it consider as staring index
 //so it returns false 
+
+//array join
