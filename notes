@@ -1,0 +1,12 @@
+Primitive types /Value types
+-> String
+-> Number
+-> Boolean
+-> undefined
+-> null
+  Now look any examples mentioned in variables
+
+  Reference types
+-> Object 
+-> Arrays
+-> Function
