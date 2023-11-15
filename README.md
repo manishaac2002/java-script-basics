@@ -1,5 +1,6 @@
 <!-- java-script-basics -->
-<<<<<<<<<<<Reference videos>>>>>>>>>>>>>>>>>>>>>>>>>
+Reference videos
+
 js for junior 
 https://www.youtube.com/watch?v=dBUBYz75gdk/ 
 https://www.youtube.com/watch?v=W6NZfCO5SIk&t=122s
