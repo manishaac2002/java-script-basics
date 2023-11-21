@@ -24,25 +24,3 @@ const greeting = (user) => {
 //     throw new Error("There was an error")
 // }
 
-function errorFunction() {
-    throw new Error("There was an error")
-}
-
-try {
-     errorFunction()
-} catch (error) {
-    console.log(error);
-}
-console.log("That was a strange error");
-
-// promise 
-let myPromise = new Promise((resolve,reject)=>{
-    resolve ('The promise was successful')//then
-    reject('There was an error')//catch
-})
-
-myPromise.then((data)=>{
-console.log(data);
-}).catch((error)=>{
-console.log(error);
-})
